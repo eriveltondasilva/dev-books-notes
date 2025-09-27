@@ -1,6 +1,6 @@
 # 📚 Dev Books Notes
 
-Repositório para organizar destaques, reflexões e rascunhos de artigos a partir de livros de desenvolvimento de software
+Repositório para organizar destaques, reflexões e rascunhos de artigos a partir de livros de desenvolvimento de software.
 
 ---
 
@@ -58,7 +58,6 @@ date: 2025-09-27
 
 ```markdown
 ---
-
 title: "O que é Código Limpo?"
 source: "Clean Code - Capítulo 01"
 status: draft
